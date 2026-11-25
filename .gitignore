@@ -1,2 +1,2 @@
-.env
-lab02_withcomments.py
+.venv/
+__pycache__/
